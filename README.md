@@ -1,5 +1,6 @@
 # Oasis Hotel
-Hotel Management
+Họ và tên: Bùi Minh Vũ
+MSV: 21001600
 
 **Mục tiêu kinh doanh (goals)** của Oasis Hotel là trở thành một trong những khách sạn hàng đầu tại Hà Nội, được khách hàng tin tưởng và lựa chọn.
 
