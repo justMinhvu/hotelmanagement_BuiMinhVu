@@ -1,5 +1,6 @@
 # Oasis Hotel
 Hotel Management
+
 **Mục tiêu kinh doanh (goals)** của Oasis Hotel là trở thành một trong những khách sạn hàng đầu tại Hà Nội, được khách hàng tin tưởng và lựa chọn.
 
 **Mục tiêu kinh doanh cụ thể (business objectives)** của Oasis Hotel bao gồm:
